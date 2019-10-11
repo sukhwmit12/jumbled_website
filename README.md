@@ -8,3 +8,4 @@
 5. Commit your changes (git commit -m "changed index")
 6. Push your changes (git push)
 7. Go to github and pull your request (New Pull Request).
+8. Finally click on "Create Pull Request"
